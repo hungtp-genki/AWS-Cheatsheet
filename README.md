@@ -8,6 +8,10 @@
 
 #### Elastic Compute Cloud (EC2)
 
+##### EC2 là gì?
+
+##### Làm sao để tạo một con EC2 (EC2 instance)?
+
 #### Amazon Lambda
 
 #### Simple Storage Service (S3)
