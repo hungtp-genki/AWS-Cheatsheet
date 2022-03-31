@@ -9,9 +9,16 @@
 #### Elastic Compute Cloud (EC2)
 
 ##### EC2 là gì?
-
-##### Elastic Block Store (EBS)
-
+- OS: Amazon Machine Image (AMI)
+- Storage/Disk/Volume: Elastic Block Store (EBS)
+- Network: Elastic Network Interface (ENI)
+  - Private IP
+  - Public IP
+- Connection:
+  - Security Group
+- Tính năng khác trong EC2:
+  - Auto Scaling
+  - Load balancing
 ##### Làm sao để tạo một con EC2 (EC2 instance)?
 
 #### Amazon Lambda
