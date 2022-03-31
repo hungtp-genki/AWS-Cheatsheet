@@ -46,6 +46,6 @@
 
 #### Amazon Simple Email Service (SES)
 
-## Architecture Principles
+## Architecture Principles ❌ ❌ ❌ 
 
 ## Question and answer
