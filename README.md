@@ -14,13 +14,13 @@
 
 #### Database services
 
-##### Relational Database Service (RDS)
+#### Relational Database Service (RDS)
 
-##### Amazon DynamoDB
+#### Amazon DynamoDB
 
-##### Amazon Redshift
+#### Amazon Redshift
 
-##### Amazon Elastic Cache
+#### Amazon Elastic Cache
 
 #### Virtual Private Cloud (VPC)
 
