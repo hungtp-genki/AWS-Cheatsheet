@@ -10,6 +10,8 @@
 
 ##### EC2 là gì?
 
+##### Elastic Block Store (EBS)
+
 ##### Làm sao để tạo một con EC2 (EC2 instance)?
 
 #### Amazon Lambda
