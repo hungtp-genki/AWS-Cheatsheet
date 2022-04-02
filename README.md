@@ -12,7 +12,7 @@
 - **Availability Zones (AZ)**: Có thể là một hoặc một cụm các data center vận hành cloud computing, một region có thể có một hoặc nhiều AZ trong đó, khi bạn xác định được vùng mình muốn sử dụng bạn sẽ thấy được cá AZ khả dụng trong vùng đó.
 - **Edge Location**: Là các vị trí trung gian, lưu trữ và nhận request từ người dùng, giúp tăng tốc cho việc xử lí thông tin cho hệ thống AWS.
 
-Để dễ hiểu có thể tượng tượng một ngày nào đó Amazon sẽ đặt cơ sở hạ tầng tại Việt Nam và chọn ra ba vùng (region) là Băc Bộ, Trung Bộ, Nam Bộ để đặt các trung tâm dữ liệu (data center). Tại Nam Bộ sẽ đặt 3 trung tâm dữ liệu, một ở HCM, một ở Cà Mau, một ở An Giang và thiết lập mỗi trung tâm dữ liệu thành một AZ, vậy region Nam Bộ sẽ có 3 AZs.
+Để dễ hiểu, có thể tượng tượng một ngày nào đó Amazon sẽ đặt cơ sở hạ tầng tại Việt Nam và chọn ra ba vùng (region) là Băc Bộ, Trung Bộ, Nam Bộ để đặt các trung tâm dữ liệu (data center). Tại Nam Bộ sẽ đặt 3 trung tâm dữ liệu, một ở HCM, một ở Cà Mau, một ở An Giang và thiết lập mỗi trung tâm dữ liệu thành một AZ, vậy region Nam Bộ sẽ có 3 AZs.
 
 ### The services
 
